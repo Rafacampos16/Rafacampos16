@@ -1,6 +1,7 @@
 <img width=100% bottom=50px src="https://github.com/Rafacampos16/Rafacampos16/assets/108197293/3369d1fc-6d9e-4fe7-9d73-031de6de098d"/>
 <br>
 <br> 
+<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=851CE1&center=true&vCenter=true&random=false&width=1000&lines=Oiii%2C+meu+nome+é+Rafaela;Tenho+18+anos;Estou+cursando+Análise+e;desenvolvimento+de+sistemas;Bem+Vindo+%3A)](https://git.io/typing-svg)
 
