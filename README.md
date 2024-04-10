@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://github.com/Rafacampos16/Rafacampos16/assets/108197293/3369d1fc-6d9e-4fe7-9d73-031de6de098d"/>
+<img width=100% bottom=50px src=""/>
 <br>
 <br> 
 <br>
