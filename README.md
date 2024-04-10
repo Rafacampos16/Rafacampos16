@@ -45,7 +45,7 @@
 
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd">
 
-<img align="left"  height="80" width="80" src="">
+<img align="left"  height="80" width="80" src="https://github.com/Rafacampos16/Rafacampos16/assets/108197293/cabd195a-9972-435e-b2b6-4c852aff74ae">
 
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
 
