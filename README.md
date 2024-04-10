@@ -47,7 +47,7 @@
 
 <img align="left"  height="80" width="80" src="https://github.com/Rafacampos16/Rafacampos16/assets/108197293/cabd195a-9972-435e-b2b6-4c852aff74ae">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
+<img align="left"  height="80" width="80" src="https://github.com/Rafacampos16/Rafacampos16/assets/108197293/a40819b3-1a41-494b-ad34-065799cb7121">
 
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/67a682a9-e93d-4eed-831c-037ec6d536cc">
 
