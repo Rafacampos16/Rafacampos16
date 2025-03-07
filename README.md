@@ -37,6 +37,27 @@
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/carolbarbosa101?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=purple) 
 
 
+<div align="left">
+
+# Bem vindo ao meu Portfólio!
+
+[Visite meu Portfólio](https://portifoliodarafa.netlify.app)
+
+Este é o espaço onde compartilho minha jornada e experiência na área de tecnologia. No meu portfólio, você poderá encontrar:
+
+### **Sobre Mim**
+Um pouco da minha história e o que me motivou a seguir na área de desenvolvimento e automação. Conheça meu perfil profissional, meus interesses e os objetivos que me guiam.
+
+### **Projetos**
+Aqui estão alguns dos projetos que desenvolvi, tanto na área de Automação Industrial quanto no desenvolvimento web e programação. Explore os detalhes dos projetos, as tecnologias utilizadas e os desafios que enfrentei.
+
+### **Habilidades**
+Uma lista das principais habilidades que adquiri ao longo da minha trajetória, como HTML, CSS, JavaScript, programação em Java, e outras ferramentas e tecnologias que utilizo no meu trabalho.
+
+### **Linha do Tempo**
+Acompanhe minha evolução profissional, desde minha formação até os marcos importantes da minha carreira. Veja como cada experiência contribuiu para meu crescimento como desenvolvedora e profissional de tecnologia.
+
+</div>
 <h2 align="left"> Principais linguagens: </h2>
 <div align="left"> 
 <img align="left" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/670ce35c-0b3c-4bec-ba1e-797c40ebcfc6">
@@ -52,8 +73,23 @@
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/67a682a9-e93d-4eed-831c-037ec6d536cc">
 
 <img align="left"  height="80" width="80" src="https://github.com/Rafacampos16/Rafacampos16/assets/108197293/881c670b-733a-469e-8f2c-9c8d280e193e">
-
+<br>
+<br> 
+<br>
+<br>
+<br>
+<br> 
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6">
+
+
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
+
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
+
+
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
+
+
 
 
 </div>
@@ -79,6 +115,13 @@
 
 <img align="left"  height="80" width="80" src="https://github.com/Rafacampos16/Rafacampos16/assets/108197293/881c670b-733a-469e-8f2c-9c8d280e193e">
 
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
+
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
+
+
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
+
 </div>
 
 
@@ -90,6 +133,8 @@
 <br>
 <br>
 <br>
+
+
 <p align="centre"><b>Contagem de visitantes</b></p> 
   
 <p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FRafacampos16&s=52&c=bb00ff&bg=00000000&no=2&ff=digii&tb=Visitantes%3A+&ta=" alt="visits"></p> 
