@@ -10,7 +10,18 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rafacampos16&theme=jolly&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=1000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rafacampos16&theme=violet-dark&locale=pt_BR)](https://git.io/streak-stats)
+
+
+
+
+
+
+
+
+
+
+
 
 </div>
 
@@ -144,8 +155,7 @@ Acompanhe minha evolução profissional, desde minha formação até os marcos i
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafacampos16&layout=compact&theme=radical)
 ![Rafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafacampos16&show_icons=true&theme=radical)
-### 🧰 Tecnologias
-![My Skills](https://skillicons.dev/icons?i=java,js,html,css,react,git,github,vscode,linux)
+
 
 <br>
 <br> 
