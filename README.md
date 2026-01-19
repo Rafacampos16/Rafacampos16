@@ -40,7 +40,16 @@
 
 # Bem vindo ao meu Portfólio!
 
-[Visite meu Portfólio](https://portifoliodarafa.netlify.app)
+<p align="center">
+  <a href="https://portifoliodarafa.netlify.app">
+    <img src="https://img.shields.io/badge/✨%20Visite%20meu%20Portfólio-7E3FF2?style=for-the-badge" />
+  </a>
+</p>
+ 
+
+
+
+
 
 Este é o espaço onde compartilho minha jornada e experiência na área de tecnologia. No meu portfólio, você poderá encontrar:
 
