@@ -34,8 +34,7 @@
 
 <div align="center" >
 
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/carolbarbosa101?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=purple) 
-
+![Snake animation](https://github.com/Rafacampos16/Rafacampos16/blob/output/github-contribution-grid-snake-dark.svg)
 
 <div align="left">
 
@@ -134,15 +133,23 @@ Acompanhe minha evolução profissional, desde minha formação até os marcos i
 <br>
 <br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafacampos16&layout=compact&theme=radical)
+![Rafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafacampos16&show_icons=true&theme=radical)
+### 🧰 Tecnologias
+![My Skills](https://skillicons.dev/icons?i=java,js,html,css,react,git,github,vscode,linux)
+
+<br>
+<br> 
 
 <p align="centre"><b>Contagem de visitantes</b></p> 
-  
-<p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FRafacampos16&s=52&c=bb00ff&bg=00000000&no=2&ff=digii&tb=Visitantes%3A+&ta=" alt="visits"></p> 
 <br>
+
+![Profile views](https://komarev.com/ghpvc/?username=Rafacampos16&color=ff69b4)
 </div>
 
 <br>
 <br> 
+
 
 
 <img width=100% src="https://github.com/Rafacampos16/Rafacampos16/assets/108197293/f9dc6920-378b-4cb6-8987-ac9d02d00902"/>
