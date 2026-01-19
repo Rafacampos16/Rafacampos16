@@ -9,19 +9,6 @@
 <br>
 
 <div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Rafacampos16&theme=violet-dark&locale=pt_BR)](https://git.io/streak-stats)
-
-
-
-
-
-
-
-
-
-
-
 
 </div>
 
