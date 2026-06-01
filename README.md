@@ -36,131 +36,150 @@
 
 <div align="left">
 
-# Bem vindo ao meu Portfólio!
+<div align="left">
+
+# Bem-vindo(a) ao meu perfil! 
+
+Sou **Rafaela Campos**, estudante de **Análise e Desenvolvimento de Sistemas** na FATEC Guaratinguetá-SP e desenvolvedora em formação, com experiência em **desenvolvimento web, Power Platform, Dynamics 365, automações, dados e inteligência artificial**.
+
+Gosto de criar soluções que unem **interface bonita, lógica bem organizada e funcionalidade de verdade**. Atualmente venho estudando e aplicando tecnologias como **React, TypeScript, Power Apps, Power Automate, Dataverse, Dynamics 365, Power BI, PCF, RPA e Azure AI Foundry**.
+
+</div>
 
 <p align="center">
-  <a href="https://portifoliodarafa.netlify.app">
+  <a href="https://portifoliodarafa.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/✨%20Visite%20meu%20Portfólio-7E3FF2?style=for-the-badge" />
   </a>
 </p>
- 
 
+---
 
+## 🚀 Sobre mim
 
+* 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na FATEC Guaratinguetá-SP.
+* ⚙️ Formação técnica em **Automação Industrial** pelo COTEC.
+* 💼 Estagiária de desenvolvimento na **Smart Consulting**, atuando com tecnologias Microsoft.
+* 🧠 Estudando **IA, Azure AI Foundry, RPA, Power Platform e Dynamics 365**.
+* 💜 Apaixonada por desenvolvimento web, design de interfaces e soluções que simplificam processos.
+* 🐾 Criadora do **PetNet**, sistema web para gestão de petshop desenvolvido como Projeto Integrador.
 
+---
 
-Este é o espaço onde compartilho minha jornada e experiência na área de tecnologia. No meu portfólio, você poderá encontrar:
+## 🧩 Stack atual
 
-### **Sobre Mim**
-Um pouco da minha história e o que me motivou a seguir na área de desenvolvimento e automação. Conheça meu perfil profissional, meus interesses e os objetivos que me guiam.
+<div align="left">
 
-### **Projetos**
-Aqui estão alguns dos projetos que desenvolvi, tanto na área de Automação Industrial quanto no desenvolvimento web e programação. Explore os detalhes dos projetos, as tecnologias utilizadas e os desafios que enfrentei.
+![React](https://img.shields.io/badge/React-7E3FF2?style=for-the-badge\&logo=react\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-7E3FF2?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-7E3FF2?style=for-the-badge\&logo=javascript\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-7E3FF2?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-7E3FF2?style=for-the-badge\&logo=css3\&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-7E3FF2?style=for-the-badge\&logo=vite\&logoColor=white)
 
-### **Habilidades**
-Uma lista das principais habilidades que adquiri ao longo da minha trajetória, como HTML, CSS, JavaScript, programação em Java, e outras ferramentas e tecnologias que utilizo no meu trabalho.
+![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge\&logo=powerapps\&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge\&logo=powerautomate\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-002050?style=for-the-badge\&logo=microsoftdynamics365\&logoColor=white)
+![Dataverse](https://img.shields.io/badge/Dataverse-512BD4?style=for-the-badge\&logo=microsoft\&logoColor=white)
+![Azure AI](https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
 
-### **Linha do Tempo**
-Acompanhe minha evolução profissional, desde minha formação até os marcos importantes da minha carreira. Veja como cada experiência contribuiu para meu crescimento como desenvolvedora e profissional de tecnologia.
-
-</div>
-<h2 align="left"> Principais linguagens: </h2>
-<div align="left"> 
-<img align="left" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/670ce35c-0b3c-4bec-ba1e-797c40ebcfc6">
-
-<img align="left" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
-
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd">
-
-<img align="left"  height="80" width="80" src="https://github.com/Rafacampos16/Rafacampos16/assets/108197293/cabd195a-9972-435e-b2b6-4c852aff74ae">
-
-<img align="left"  height="80" width="80" src="https://github.com/Rafacampos16/Rafacampos16/assets/108197293/a40819b3-1a41-494b-ad34-065799cb7121">
-
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/67a682a9-e93d-4eed-831c-037ec6d536cc">
-
-<img align="left"  height="80" width="80" src="https://github.com/Rafacampos16/Rafacampos16/assets/108197293/881c670b-733a-469e-8f2c-9c8d280e193e">
-<br>
-<br> 
-<br>
-<br>
-<br>
-<br> 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6">
-
-
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
-
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
-
-
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
-
-
-
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github\&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-111111?style=for-the-badge\&logo=netlify\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-111111?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
 </div>
 
-<br>
-<br> 
-<br>
-<br>
-<br>
-<br> 
+---
 
+## 💼 Áreas que venho desenvolvendo
 
-<h2 align="left"> Estudando no momento: </h2>
+### Desenvolvimento Web
 
+Criação de interfaces modernas, responsivas e funcionais usando **HTML, CSS, JavaScript, React, Vite e TypeScript**.
 
-<div align="left"> 
+### Power Platform e Dynamics 365
 
-<img align="left" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/670ce35c-0b3c-4bec-ba1e-797c40ebcfc6">
+Experiência com **Power Apps, Power Automate, Dataverse, Power Pages, Dynamics 365 Sales, Customer Service, Customer Insights e PCF**.
 
-<img align="left" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
+### Automação e Dados
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd">
+Estudos e práticas com **RPA, Power Automate Desktop, Power BI, indicadores, fluxos automatizados e integração de dados**.
 
-<img align="left"  height="80" width="80" src="https://github.com/Rafacampos16/Rafacampos16/assets/108197293/881c670b-733a-469e-8f2c-9c8d280e193e">
+### Inteligência Artificial
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
+Aprendizado em **Azure AI Foundry, agentes de IA, visão computacional, fala de IA e Microsoft Copilot**.
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
+---
 
+## 🐾 Projeto em destaque: PetNet
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
+O **PetNet** é um sistema web para petshop desenvolvido como Projeto Integrador da faculdade.
 
-</div>
+Principais funcionalidades:
 
+* cadastro de clientes e pets;
+* agendamento de serviços;
+* painel administrativo;
+* visualização de agenda;
+* controle de status dos agendamentos;
+* integração com WhatsApp;
+* interface responsiva e moderna.
+
+<p align="left">
+  <a href="https://petnet-pi.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20PetNet-7E3FF2?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+## 📚 Estudando no momento
+
+* Microsoft Power Platform
+* Power Automate RPA
+* Dynamics 365 CRM
+* Power Apps Component Framework
+* Azure AI Foundry
+* Agentes de IA
+* Visão Computacional
+* React com TypeScript
+* Testes automatizados com Playwright
+* Inglês técnico para tecnologia
+
+---
+
+## 🏆 Certificados e treinamentos recentes
+
+* Microsoft Applied Skills: Classes, Properties and Methods in C#
+* Criação de um agente de IA com o Microsoft Foundry
+* Introdução aos conceitos de Computer Vision
+* Introdução aos conceitos de Fala de IA
+* React e TypeScript
+* Dynamics 365 - Sales
+* Dynamics 365 - Customer Service
+* Power Apps Component Framework
+* Microsoft Power Platform – Extending
+* Microsoft Power Automate RPA
+* Microsoft Power Pages
+* GitHub Copilot
+* Testes Automatizados Playwright
+* Microsoft Power BI
+* Versionamento de Código com Git e GitHub
+
+---
+
+## 🌷 Contagem de visitantes
 
 <div align="center">
-  
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafacampos16&layout=compact&theme=radical)
-![Rafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafacampos16&show_icons=true&theme=radical)
+![Profile views](https://komarev.com/ghpvc/?username=Rafacampos16\&color=7E3FF2)
 
-
-<br>
-<br> 
-
-<p align="centre"><b>Contagem de visitantes</b></p> 
-<br>
-
-![Profile views](https://komarev.com/ghpvc/?username=Rafacampos16&color=ff69b4)
 </div>
 
 <br>
-<br> 
-
-
 
 <img width=100% src="https://github.com/Rafacampos16/Rafacampos16/assets/108197293/f9dc6920-378b-4cb6-8987-ac9d02d00902"/>
-
-
 
 
 
